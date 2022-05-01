@@ -28,7 +28,7 @@ setuptools.setup(
         'ujson==1.35',
         'requests==2.20.0',
         'PyMySQL==0.7.2',
-        'SQLAlchemy==1.0.11',
+        'SQLAlchemy==1.3.0',
         'Jinja2==2.10',
         'importlib==1.0.3',
         'Markdown==2.4.1',
