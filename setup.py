@@ -36,7 +36,7 @@ setuptools.setup(
         'msgpack-python==0.4.5',
         'cssmin==0.2.0',
         'beaker==1.10.0',
-        'cryptography==2.3',
+        'cryptography==39.0.1',
         'webassets==0.12.1',
         'python-ldap==3.1.0',
         'exchangelib==1.10.0',
